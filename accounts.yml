@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker from github APIs "
+  message: "Welcome to EazyBank accounts related docker from github APIs 2.0 "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
